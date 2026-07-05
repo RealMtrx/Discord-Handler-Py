@@ -115,4 +115,4 @@ async def ping(message: discord.Message, args: list[str]):
 
 ---
 
-**Discord Handler** - A modern, scalable Discord bot framework built with Python.
+**Discord Handler** — Built by **Mtrx** — Discord: **0hu2**
